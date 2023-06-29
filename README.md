@@ -2,8 +2,8 @@
 26/06/2023
   01 - Python Notebook.ipynb
   Notebook de Google Collab donde comenzmos a programar en Python:
-    -Variables y tipos.
-    -Listas.
+    * Variables y tipos.
+    * Listas.
     -Operadores.
     -Strings.
     -Condiciones.
