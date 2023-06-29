@@ -1,5 +1,6 @@
 # curso_machine_learning
-26/06/2023
+
+# 26/06/2023
 
 01 - Python Notebook.ipynb
 
@@ -29,7 +30,7 @@ if condicion:
   prit('hola')
 ```
   
-27/06/2023
+# 27/06/2023
 
 01 - Néstor M5 - 03 - Bucles.ipynb
   
@@ -54,6 +55,6 @@ Notebook de Google Collab donde practicamos la libreria Pandas:
     
       -Conexion a la API de SpaceX 
 
-28/06/2023
+# 28/06/2023
 
   01 -  
