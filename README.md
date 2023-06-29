@@ -15,6 +15,7 @@
     - Diccionarios
       
   02 - Condicionales.ipynb
+  
   Notebook de Google Collab donde practicamos los condicionales en Python:
   
     - Operadores de comparacion
@@ -29,13 +30,18 @@ if condicion:
 ```
   
 27/06/2023
+
   01 - Néstor M5 - 03 - Bucles.ipynb
+  
     Notebook de Google Collab donde practicamos los bucles en Python:
+    
       -Uso de While
       -Uso de For
   
   02 - Néstor M4 - 10 - Pandas.ipynb
+  
     Notebook de Google Collab donde practicamos la libreria Pandas:
+    
       -Import
       -DataFrame
       -Uso de loc e iloc
@@ -43,5 +49,11 @@ if condicion:
       -
     
   03 - Néstor SpaceX - 1 - Data Collection Api v2.ipynb
+  
     Notebook de Google Collab donde seguimos practicando la libreria Pandas:
+    
       -Conexion a la API de SpaceX 
+
+28/06/2023
+
+  01 - 
