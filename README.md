@@ -19,9 +19,10 @@
     - Uso de If 
     - Uso de Elif
     - Uso do Else
-  '''sh
-      if condicion:
-        print('Hola')'''
+    ```sh
+    if condicion:
+      print('Hola')
+    ```
   
 27/06/2023
   01 - Néstor M5 - 03 - Bucles.ipynb
