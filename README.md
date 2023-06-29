@@ -17,13 +17,12 @@
   
     - Operadores de comparacion
     - Uso de If 
-    ```sh
+    - Uso de Elif
+    - Uso do Else
+  ```sh
       if condicion:
         print('Hola')
       ```
-    - Uso de Elif
-    - Uso do Else
-
 27/06/2023
   01 - Néstor M5 - 03 - Bucles.ipynb
     Notebook de Google Collab donde practicamos los bucles en Python:
