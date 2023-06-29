@@ -21,10 +21,9 @@
     - Uso do Else
 
     
-    ```sh
-    if condicion:
-      print('Hola')
-    ```
+```sh
+docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
+```
   
 27/06/2023
   01 - Néstor M5 - 03 - Bucles.ipynb
