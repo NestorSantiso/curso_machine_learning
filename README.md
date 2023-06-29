@@ -19,10 +19,10 @@
     - Uso de If 
     - Uso de Elif
     - Uso do Else
-  ```sh
+  '''sh
       if condicion:
-        print('Hola')
-      ```
+        print('Hola')'''
+  
 27/06/2023
   01 - Néstor M5 - 03 - Bucles.ipynb
     Notebook de Google Collab donde practicamos los bucles en Python:
