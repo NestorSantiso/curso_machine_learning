@@ -8,9 +8,9 @@
     - Operadores.
     - Strings.
     - Condiciones.
-    -Bucles.
-    -Funciones
-    -Diccionarios
+    - Bucles.
+    - Funciones
+    - Diccionarios
       
   02 - Condicionales.ipynb
   Notebook de Google Collab donde practicamos los condicionales en Python:
