@@ -14,10 +14,15 @@
       
   02 - Condicionales.ipynb
   Notebook de Google Collab donde practicamos los condicionales en Python:
-    -Operadores de comparacion
-    -Uso de If 
-    -Uso de Elif
-    -Uso do Else
+  
+    - Operadores de comparacion
+    - Uso de If 
+    ```sh
+      if condicion:
+        print('Hola')
+      ```
+    - Uso de Elif
+    - Uso do Else
 
 27/06/2023
   01 - Néstor M5 - 03 - Bucles.ipynb
