@@ -57,4 +57,25 @@ Notebook de Google Collab donde practicamos la libreria Pandas:
 
 # 28/06/2023
 
-  01 -  
+  01 - 
+  
+# 29/06/2023
+  
+  01 - Néstor M5 - 09 - Folium
+  
+Notebook de Google Collab donde practicamos la libreria de Python Folium que permite la creación de mapas.
+  
+  -
+  
+  02 - Néstor SpaceX - 4 - EDA with Data Visualization
+
+Notebook de Google Collab donde practicamos con modelos de prediccion de la libreria de scikit-learn
+
+  
+  03 - Néstor M5 - SPACEX2 - 6 - Machine Learning Predicciones
+
+Notebook de Google Collab donde practicamos con modelos de prediccion de la libreria de scikit-learn
+  
+  04 - Néstor M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium
+  
+  
